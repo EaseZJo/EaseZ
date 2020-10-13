@@ -1,0 +1,60 @@
+.background {
+    background: url("../images/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.navBarStyle {
+    background-color: #292e1c99;
+}
+
+.currentPage {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #292e1c99;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.imageDiv {
+    text-align: center;
+}
+
+.contentDiv {
+    margin-top: 2%;
+}
+
+.informationDiv {
+    text-align: center;
+    background-color: #292e1c99;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 20px;
+    color: white;
+}
+
+#language {
+    font-weight: bold;
+}
+
+#personalImage {
+    border-radius: 50%;
+}
+
+#titleLabel {
+    font-size: 250%;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+#informationLabel {
+    font-size: 250%;
+    margin-top: 2%;
+}

@@ -1,0 +1,53 @@
+.background {
+    background: url("../images/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.navBarStyle {
+    background-color: #292e1c99;
+}
+
+.currentPage {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.containerDiv {
+    margin-top: 5%;
+}
+
+#language {
+    font-weight: bold;
+}
+
+#personalImage {
+    border-radius: 50%;
+}
+
+#nameLabel {
+    font: bold;
+    font-size: 250%;
+    color: white;
+}
+
+#sloganLabel {
+    font: bold;
+    font-size: 150%;
+    color: white;
+    margin: 1%;
+}
+
+#downloadCvButton {
+    background-color: #babfc3;
+    font-weight: bold;
+    color: #292e1c;
+    margin: 5%;
+    padding: 10px;
+}
+
+#downloadCvButton:hover {
+    background-color: #87888a;
+}
